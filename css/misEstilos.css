@@ -1,0 +1,167 @@
+
+/*header */
+
+.navbar{
+	margin-bottom: 0;
+}
+.jumbotron-sc{
+	background-image: url(../imagenes/tasa.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	color:white;
+	padding: 60px 0px;
+	
+}
+
+.titulo{
+	font-family: 'Shadows Into Light',cursive;
+	color:white;
+}
+.titulo2{
+	font-size: 30px;
+	}
+.main{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.post{
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+	border-bottom: 2px solid grey;
+}
+.post .post-title{
+	color: #333;
+}
+.post .thumb{
+	margin-right: 10px;
+	width: 40%;
+
+}
+.post .thumb img{
+	width: 100%;
+}
+.post .contenedor-botones{
+	width: 100%;
+}
+.boton{
+	background-color: rgba(0,0,0,1);
+	color: #fff;
+}
+.boton:hover{
+	background-color: rgba(0,0,0,0.5);
+	color: #fff;
+}
+.ui-loader{
+	display: none;
+}
+
+
+input,button{
+	margin-top: 10px;
+}
+.titulo2{
+	text-align: center;
+}
+.gitHub{
+	background-color:black;
+	color:white;
+}
+.gitHub:hover{
+	background-color: rgba(0,0,0,0.3);
+	color: grey;
+}
+.thumbnail img{
+	width: 10px;
+}
+
+.miTabla .fila:hover{
+	background-color: rgba(0,0,0,0.2);
+
+}
+
+.iconos{
+	width: 70px;
+	background-color: rgba(0,0,0,0.9);
+	color: white;
+	border:double 1px #8f808f;
+
+-moz-border-radius-topleft: 5px;
+-moz-border-radius-topright:5px;
+-moz-border-radius-bottomleft:5px;
+-moz-border-radius-bottomright:5px;
+-webkit-border-top-left-radius:5px;
+-webkit-border-top-right-radius:5px;
+-webkit-border-bottom-left-radius:5px;
+-webkit-border-bottom-right-radius:5px;
+border-top-left-radius:5px;
+border-top-right-radius:5px;
+border-bottom-left-radius:5px;
+border-bottom-right-radius:5px;
+
+}
+.iconos:hover{
+	font-size: 15px;
+background-color: rgba(0,0,0,0.8);
+}
+#estaOculto{
+	display: none;
+}
+@media screen and ( max-width: 480px) {
+	.titulo2{
+	font-size: 20px;
+	}
+
+	.ocultarte{
+		display: none;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.contenedorPrincipal{
+	background-image: url(../fondo2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	position:fixed;
+}
+.columnasFlex{
+	margin:100px  auto;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	width: 80%;
+	align-items: center;
+	background-color: blue;
+}
+.columnas{
+	width: 50%;
+	padding: 10px 10px;
+}
+
+div .columas1 ,.columas2 ,.columas3{
+	background-color: yellow;
+}
+.footer{
+	display: flex;
+	height: 60px;
+
+}
+*/
